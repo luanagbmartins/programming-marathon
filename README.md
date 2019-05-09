@@ -1,2 +1,2 @@
 # programming-marathon
-Repositório de resoluções de problemas de maratonas de programação.
+Repository of problem solving for programming marathons.
